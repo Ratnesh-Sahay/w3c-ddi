@@ -1,3 +1,7 @@
+
+# *NOTE*:
+This repository is deprecated. Please use https://www.w3.org/wiki/HCLSIG/DDI instead. 
+
 # w3c-ddi
 W3C HCLS Drug-Drug Interaction
 
